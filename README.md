@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gebrehiwot Nayom
 - 👀 I’m interested in Full Stack web application development
-- 🌱 I’m currently working as full stack developer using ReactJs and NodeJs/
+- 🌱 I’m currently working as full stack developer using ReactJs and NodeJs.
 - 💞️ I’m looking to collaborate on advanced projects with in agile team.
 - 📫 gebrunayom@gmail.com
 
