@@ -2,7 +2,6 @@
 - 👀 I’m interested in Full Stack web application development
 - 🌱 I’m currently working as full stack developer using ReactJs and NodeJs.
 - 💞️ I’m looking to collaborate on advanced projects with in agile team.
-- 📫 gebrunayom@gmail.com
 
 <!---
 gebrina/gebrina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
